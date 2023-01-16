@@ -6,10 +6,12 @@ tags:
 - 物理
 categories: 文章
 password: dogebless
+
 ---
+
 # 功能动量
 
-<a href="physics-work-engergy-momentum.md" download>点击下载markdown源码</a>
+<a href="physics-work-engergy-momentum.txt" download>点击下载markdown源码</a>
 
 ## 功
 
@@ -49,9 +51,9 @@ password: dogebless
 - 一对动摩擦力做功之和<0(因为能量损耗)
 - 重力做功正负看高度变化
 - 合外力做功看速度大小变化(因为合外力的方向和加速度方向相同)
-  - 速度变大$\Leftrightarrow$合外力做正功
-  - 速度变小$\Leftrightarrow$合外力做负功
-  - 速度不变$\Leftrightarrow$合外力不做功
+	- 速度变大$\Leftrightarrow$合外力做正功
+	- 速度变小$\Leftrightarrow$合外力做负功
+	- 速度不变$\Leftrightarrow$合外力不做功
 
 ### 模型——敲钉子
 
@@ -120,3 +122,19 @@ $$
 **语言描述法**：
 
 对象  从哪到哪    做功的力    列动能定理式子
+
+### 圆周运动解题思路
+
+复习一下：
+
+恰好做圆周运动：
+
+- 绳：最高点 $v=\sqrt{gr}$
+- 杆：最高点 $v=0$
+
+**注意一点就可以**：**垂直**于速度的力不做功！比如绳子拉力！
+
+### [练习](https://www.bilibili.com/video/BV1D4411i7bL/)
+
+### 多段运动——直线(OVO)
+
