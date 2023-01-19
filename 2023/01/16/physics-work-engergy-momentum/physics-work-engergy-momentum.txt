@@ -6,9 +6,7 @@ tags:
 - 物理
 categories: 文章
 password: dogebless
-
 ---
-
 # 功能动量
 
 <a href="physics-work-engergy-momentum.txt" download>点击下载markdown源码</a>
@@ -51,9 +49,9 @@ password: dogebless
 - 一对动摩擦力做功之和<0(因为能量损耗)
 - 重力做功正负看高度变化
 - 合外力做功看速度大小变化(因为合外力的方向和加速度方向相同)
-	- 速度变大$\Leftrightarrow$合外力做正功
-	- 速度变小$\Leftrightarrow$合外力做负功
-	- 速度不变$\Leftrightarrow$合外力不做功
+  - 速度变大$\Leftrightarrow$合外力做正功
+  - 速度变小$\Leftrightarrow$合外力做负功
+  - 速度不变$\Leftrightarrow$合外力不做功
 
 ### 模型——敲钉子
 
@@ -134,8 +132,6 @@ $$
 
 **注意一点就可以**：**垂直**于速度的力不做功！比如绳子拉力！
 
-### [练习](https://www.bilibili.com/video/BV1D4411i7bL/)
-
 ### 多段运动——直线(OVO)
 
 解题关键：如何选初末状态
@@ -145,3 +141,15 @@ $$
 1.某点的物理量：此点+一个已知速度的点
 
 2.某段的物理量：两个速度已知的点(只要包含运动段就行)
+
+### 往返运动
+
+一个物体在来来回回不停运动，就是往返运动
+
+注意考虑摩擦力和重力做功
+
+摩擦力做功等于力乘路程
+
+最后停止就是动定的末速度为0，最后不停止就是在光滑的圆弧上摆，最高点速度为0。
+
+### 链条
